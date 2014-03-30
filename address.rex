@@ -1,0 +1,3 @@
+/*rexx*/
+say address()
+exit
